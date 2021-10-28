@@ -1,6 +1,5 @@
 provider "aws" {
   region = var.aws_region
-  insecure = true
 }
 
 locals {
